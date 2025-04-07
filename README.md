@@ -1,7 +1,11 @@
 # Constrained_Delaunay_Triangulation
 
 ## Table of contents
-
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Visualization](#visualization)
+- [License](#license)
 
 ## Introduction
 This project provides implementation and visualization of
@@ -30,4 +34,5 @@ It allows for both images of the final construction and step by step visualizati
 
 ![example](resources/example.gif)
 
-## 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
